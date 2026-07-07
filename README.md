@@ -49,7 +49,7 @@ This repository showcases my Business Analysis documentation skills by presentin
 
 ## Repository Files
 
-- 📄 ZenLead_AI_BRD.pdf
+- CRM_Lead_Management_BRD.pdf
 
 ## About
 
