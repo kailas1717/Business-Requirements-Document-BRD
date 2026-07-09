@@ -1,9 +1,9 @@
-# ZenLead AI – Business Requirements Document (BRD)
+# CRM lead Mnagement – Business Requirements Document (BRD)
 
 
 ## Overview
 
-ZenLead AI is an enterprise-grade AI-powered Customer Relationship Management (CRM) and Lead Management System designed to automate lead management, improve customer engagement, and support data-driven business decisions through intelligent automation.
+CRM lead management is an enterprise-grade AI-powered Customer Relationship Management (CRM) and Lead Management System designed to automate lead management, improve customer engagement, and support data-driven business decisions through intelligent automation.
 
 This repository showcases my Business Analysis documentation skills by presenting a complete Business Requirements Document (BRD) prepared for the proposed solution.
 
